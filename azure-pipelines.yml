@@ -38,4 +38,3 @@ steps:
     artifactName: 'drop'
     targetPath: '$(Build.ArtifactStagingDirectory)'
 
--task: publishbuildartifacts@1
